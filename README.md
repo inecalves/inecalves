@@ -3,8 +3,6 @@
 
 ## My Work
 
-## Follow me
-[Instagram](https://www.instagram.com/inecalves/)
 
 
 
