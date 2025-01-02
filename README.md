@@ -1,4 +1,13 @@
-## Hi there 👋
+## :star: About me :star:
+<!--<img src="https://github.com/user-attachments/assets/3497f785-d5e2-4d33-bf26-b607fac636f8" alt="kika" width="200px">-->
+
+## My Work
+
+## Follow me
+[Instagram](https://www.instagram.com/inecalves/)
+
+
+
 
 <!--
 **inecalves/inecalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
