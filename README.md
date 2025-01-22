@@ -1,4 +1,3 @@
-<h1>✨ About Me ✨</h1>
 <h3>Hii! I´m a first year software engineering student</h3>
 
 <details>
