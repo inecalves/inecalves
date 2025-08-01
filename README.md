@@ -1,11 +1,11 @@
-<h3>Hii! I´m a first year software engineering student</h3>
 
-### GitHub Stats
+### GitHub Stat
 
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=inecalves&show_icons=true&theme=tokyonight&locale=en" alt="inecalves" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inecalves&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="inecalves" />
-</p>
+<div align="center">
+  <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api?username=inecalves&show_icons=true&theme=tokyonight&locale=en" alt="inecalves" />
+  <img align ="left" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=inecalves&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="inecalves" />
+</div>
+
 
 
 
